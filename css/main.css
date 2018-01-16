@@ -391,6 +391,7 @@ img::-moz-selection {
 
   .content-wrapper__inner {
     /*margin: 0 10%;*/
+    margin-left: -90px;
     margin-right: 60px;
     padding: 50px 0; 
     /*margin: 0 auto; */
@@ -1137,8 +1138,8 @@ input[type="tel"]:-ms-input-placeholder {
     margin: 0 auto; 
   }
   .content-wrapper__inner {
-    margin-right: 0;
-    margin-left: 0; 
+    margin-right: 60px;
+    margin-left: -90px; 
   }
 }
 
