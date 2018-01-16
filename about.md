@@ -7,7 +7,7 @@ Java / Python / Deep Learning
 <p>
 平时喜欢整理个人博客，逛逛技术论坛。
 <p>
-点亮的技能树：
+#####点亮的技能树：
 	后端：
 		Java：Spring/Spring MVC/Spring Boot/Mybatis
 		Python:Web2py
